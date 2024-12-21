@@ -1,0 +1,11 @@
+﻿index,song,artist,duration,song path,beat path,img path
+0,Blueming,IU,3.41,song\\Blueming\\Blueming.mp3,song\\Blueming\\Blueming.csv,song\\Blueming\\Blueming.png
+1,Future,Red Velvet,3.34,song\\Future\\Future.mp3,song\\Future\\Future.csv,song\\Future\\Future.png
+2,Night Changes,One Direction,4,song\\Night Changes\\Night Changes.mp3,song\\Night Changes\\Night Changes.csv,song\\Night Changes\\Night Changes.png
+3,Suiheisen,Back Number,4.38,song\\Suiheisen\\Suiheisen.mp3,song\\Suiheisen\\Suiheisen.csv,song\\Suiheisen\\Suiheisen.png
+4,What is Love,Twice,3.43,song\\What is Love\\What is Love.mp3,song\\What is Love\\What is Love.csv,song\\What is Love\\What is Love.png
+5,Tokimeki,Vaundy,3.52,song\\Tokimeki\\Tokimeki.mp3,song\\Tokimeki\\Tokimeki.csv,song\\Tokimeki\\Tokimeki.png
+6,The Night,Avicii,2.53,song\\The Night\\The Night.mp3,song\\The Night\\The Night.csv,song\\The Night\\The Night.png
+7,Ao no Sumika,Tatsuya Kitani,3.2,song\\Ao no Sumika\\Ao no Sumika.mp3,song\\Ao no Sumika\\Ao no Sumika.csv,song\\Ao no Sumika\\Ao no Sumika.png
+8,Tomoshibi,Vaundy,2.56,song\\Tomoshibi\\Tomoshibi.mp3,song\\Tomoshibi\\Tomoshibi.csv,song\\Tomoshibi\\Tomoshibi.png
+9,Red,Taylor Swift,NA,song\\Red\\Red.mp3,song\\Red\\Red.csv,song\\Red\\Red.png
